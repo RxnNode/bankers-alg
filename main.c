@@ -1,7 +1,6 @@
 /*
  * c Standard : c11
  * date : 2020.04.20
- * author : Yung-An Jen
  */
 #include <stdlib.h>
 #include <stdio.h>
